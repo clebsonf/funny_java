@@ -1,4 +1,4 @@
-# Java
+# "Funny" Java
 
 A repository with a bunch of java algorithms, beginners friendly.
 
